@@ -1,0 +1,100 @@
+98;Shin Godzilla;Action;29/07/2016;120;6.5
+93;How to Train Your Dragon;Fantasy;05/03/2010;98;7.5
+42;Green Lantern;Adventure;16/06/2011;114;5.1
+5;John Carter;Action;07/03/2012;132;6.1
+58;WALL·E;Animation;22/06/2008;98;7.8
+47;X-Men: Days of Future Past;Action;15/05/2014;131;7.5
+61;A Christmas Carol;Animation;04/11/2009;96;6.6
+82;Maleficent;Fantasy;28/05/2014;97;7.0
+88;Tomorrowland;Adventure;19/05/2015;130;6.2
+67;Up;Animation;13/05/2009;96;7.7
+54;Indiana Jones and the Kingdom of the Crystal Skull;Adventure;21/05/2008;122;5.7
+43;Toy Story 3;Animation;16/06/2010;103;7.6
+83;Dawn of the Planet of the Apes;Science Fiction;26/06/2014;130;7.3
+29;Jurassic World;Action;09/06/2015;124;6.5
+31;Spider-Man 2;Action;25/06/2004;127;6.7
+9;Harry Potter and the Half-Blood Prince;Adventure;07/07/2009;153;7.4
+13;Pirates of the Caribbean: Dead Man's Chest;Adventure;20/06/2006;151;7.0
+37;Transformers: Age of Extinction;Science Fiction;25/06/2014;165;5.8
+23;The Hobbit: The Desolation of Smaug;Adventure;11/12/2013;161;7.6
+75;Edge of Tomorrow;Action;27/05/2014;113;7.6
+73;Suicide Squad;Action;02/08/2016;123;5.9
+69;Iron Man;Action;30/04/2008;126;7.4
+15;Man of Steel;Action;12/06/2013;143;6.5
+87;Shrek Forever After;Comedy;16/05/2010;93;6.0
+14;The Lone Ranger;Action;03/07/2013;149;5.9
+66;The Dark Knight;Drama;16/07/2008;152;8.2
+92;Independence Day: Resurgence;Action;22/06/2016;120;4.9
+55;The Good Dinosaur;Adventure;14/11/2015;93;6.6
+77;G.I. Joe: The Rise of Cobra;Adventure;04/08/2009;118;5.6
+41;Cars 2;Animation;11/06/2011;106;5.8
+2;Pirates of the Caribbean: At World's End;Adventure;19/05/2007;169;6.9
+49;Jack the Giant Slayer;Action;27/02/2013;114;5.5
+51;Prince of Persia: The Sands of Time;Adventure;19/05/2010;116;6.2
+65;X-Men: Apocalypse;Science Fiction;18/05/2016;144;6.4
+89;Big Hero 6;Adventure;24/10/2014;102;7.8
+32;Iron Man 3;Action;18/04/2013;130;6.8
+17;The Avengers;Science Fiction;25/04/2012;143;7.4
+21;The Amazing Spider-Man;Action;27/06/2012;136;6.5
+44;Terminator Salvation;Action;20/05/2009;115;5.9
+16;The Chronicles of Narnia: Prince Caspian;Adventure;15/05/2008;150;6.3
+7;Tangled;Animation;24/11/2010;100;7.4
+46;World War Z;Action;20/06/2013;116;6.7
+19;Men in Black 3;Action;23/05/2012;106;6.2
+68;Monsters vs Aliens;Animation;19/03/2009;94;6.0
+8;Avengers: Age of Ultron;Action;22/04/2015;141;7.3
+76;Waterworld;Adventure;28/07/1995;135;5.9
+25;King Kong;Adventure;14/12/2005;187;6.6
+79;The Jungle Book;Family;07/04/2016;106;6.7
+4;The Dark Knight Rises;Action;16/07/2012;165;7.6
+64;The Chronicles of Narnia: The Lion, the Witch and the Wardrobe;Adventure;07/12/2005;143;6.7
+18;Pirates of the Caribbean: On Stranger Tides;Adventure;14/05/2011;136;6.4
+100;The Fast and the Furious;Action;22/06/2001;106;6.6
+99;The Hobbit: An Unexpected Journey;Adventure;26/11/2012;169;7.0
+57;Star Trek Beyond;Action;07/07/2016;122;6.6
+45;Furious 7;Action;01/04/2015;137;7.3
+33;Alice in Wonderland;Family;03/03/2010;108;6.4
+90;Wreck-It Ralph;Family;01/11/2012;108;7.1
+12;Quantum of Solace;Adventure;30/10/2008;106;6.1
+91;The Polar Express;Adventure;10/11/2004;100;6.4
+80;Iron Man 2;Adventure;28/04/2010;124;6.6
+38;Oz: The Great and Powerful;Fantasy;07/03/2013;130;5.7
+48;Star Trek Into Darkness;Action;05/05/2013;132;7.4
+11;Superman Returns;Adventure;28/06/2006;154;5.4
+30;Skyfall;Action;25/10/2012;143;6.9
+40;TRON: Legacy;Adventure;10/12/2010;125;6.3
+60;2012;Action;10/10/2009;158;5.6
+81;Snow White and the Huntsman;Adventure;30/05/2012;127;5.8
+86;Captain America: The Winter Soldier;Action;20/03/2014;136;7.6
+35;Monsters University;Animation;20/06/2013;104;7.0
+10;Batman v Superman: Dawn of Justice;Action;23/03/2016;151;5.7
+28;Battleship;Thriller;11/04/2012;131;5.5
+26;Titanic;Drama;18/11/1997;194;7.5
+1;Avatar;Action;10/12/2009;162;7.2
+3;Spectre;Action;26/10/2015;148;6.3
+27;Captain America: Civil War;Adventure;27/04/2016;147;7.1
+72;The Mummy: Tomb of the Dragon Emperor;Adventure;01/07/2008;112;5.2
+24;The Golden Compass;Adventure;04/12/2007;113;5.8
+84;The Lovers;Action;13/02/2015;109;4.8
+94;Terminator 3: Rise of the Machines;Action;02/07/2003;109;5.9
+97;Inception;Action;14/07/2010;148;8.1
+34;X-Men: The Last Stand;Adventure;24/05/2006;104;6.3
+70;Hugo;Adventure;22/11/2011;126;7.0
+85;47 Ronin;Drama;06/12/2013;119;5.9
+50;The Great Gatsby;Drama;10/05/2013;143;7.3
+74;Evan Almighty;Fantasy;09/06/2007;96;5.3
+22;Robin Hood;Action;12/05/2010;140;6.2
+63;The Legend of Tarzan;Action;29/06/2016;109;5.5
+71;Wild Wild West;Action;29/06/1999;106;5.1
+52;Pacific Rim;Action;11/07/2013;131;6.7
+59;Rush Hour 3;Action;08/08/2007;91;6.1
+36;Transformers: Revenge of the Fallen;Science Fiction;19/06/2009;150;6.0
+39;The Amazing Spider-Man 2;Action;16/04/2014;142;6.5
+95;Guardians of the Galaxy;Action;30/07/2014;121;7.9
+20;The Hobbit: The Battle of the Five Armies;Action;10/12/2014;144;7.1
+6;Spider-Man 3;Fantasy;01/05/2007;139;5.9
+96;Interstellar;Adventure;05/11/2014;169;8.1
+62;Jupiter Ascending;Science Fiction;04/02/2015;124;5.2
+53;Transformers: Dark of the Moon;Action;28/06/2011;154;6.1
+78;Inside Out;Drama;09/06/2015;94;8.0
+56;Brave;Animation;21/06/2012;93;6.7

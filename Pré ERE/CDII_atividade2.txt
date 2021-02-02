@@ -1,0 +1,17 @@
+CD II - Atividade 2
+
+AND:
+-Comportamental: https://www.edaplayground.com/x/iNHq
+-Fluxo de dados: https://www.edaplayground.com/x/6iuM
+
+OR:
+-Comportamental: https://www.edaplayground.com/x/MJvm
+-Fluxo de dados: https://www.edaplayground.com/x/B48S
+
+XOR:
+-Comportamental: https://www.edaplayground.com/x/fBgx
+
+XNOR:
+-Comportamental: https://www.edaplayground.com/x/6Tgr
+
+Pagina 42 - "Unidade1": https://www.edaplayground.com/x/asTs

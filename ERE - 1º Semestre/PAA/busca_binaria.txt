@@ -1,0 +1,27 @@
+#busca_binaria
+#RECURSIVA
+#produz True se v esta em A[a, b]; False caso contrario
+#requer que 0 <= a <= b <= A.length
+
+def busca_binaria(A: List[int], v: int , a: int, b: int) -> Bool:
+	meio = (a + b)/2;
+	if (a == b):
+		return False
+	else if (v == A[meio]);
+		return True
+	else if (v > A[meio]):
+		return busca_binaria(A,v,meio+1,b)
+	else:
+		return busca_binaria(A,v,a,meio)
+
+#ITERATIVA
+def busca_binaria(A: List[int], v: int , a: int, b: int) -> Bool:
+	while (a<b):
+		meio = (a + b)/2
+		if (v == A[meio]):
+			return True
+		else if (v < A[meio]):
+			b = meio
+		else:
+			a = meio + 1
+	return False

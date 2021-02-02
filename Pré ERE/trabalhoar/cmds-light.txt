@@ -1,0 +1,15 @@
+1 29
+2 41|Cars 2|Animation|11/06/2011|106|5.8|
+1 75
+2 2|Pirates of the Caribbean: At World's End|Adventure|19/05/2007|169|6.9|
+1 41
+2 100|The Fast and the Furious|Action|22/06/2001|106|6.6|
+1 98
+2 84|The Lovers|Action|13/02/2015|109|4.8|
+2 59|Rush Hour 3|Action|08/08/2007|91|6.1|
+2 79|The Jungle Book|Family|07/04/2016|106|6.7|
+1 21
+2 60|2012|Action|10/10/2009|158|5.6|
+1 60
+2 9|Harry Potter and the Half-Blood Prince|Adventure|07/07/2009|153|7.4|
+2 67|Up|Animation|13/05/2009|96|7.7|

@@ -1,0 +1,20 @@
+2 102|Alpha|Drama|06/09/2018|96|8.5|
+2 103|Avengers: Endgame|Action|25/04/2019|182|8.8|
+2 105|Once Upon a Time in Hollywood|Drama|15/08/2019|165|9.0|
+2 109|Spider-Man: Far From Home|Action|15/08/2019|115|6.5|
+2 110|Once Upon a Time in the West|Drama|10/08/1969|175|9.8|
+2 111|The Lion King|Drama/Adventure|17/07/2019|102|8.0|
+2 112|Dark Phoenix|Action|06/06/2019|120|7.5|
+2 113|Three Billboards Outside Ebbing, Missouri|Drama|15/02/2018|116|7.8|
+2 114|Captain Marvel|Action|07/03/2019|125|9.2|
+2 115|Aladdin|Fantasy/Romance|23/05/2019|128|8.0|
+2 116|Toy Story 4|Fantasy/Adventure|20/06/2019|89|7.9|
+2 117|Dumbo|Family|28/03/2019|112|8.7|
+2 118|Shazam|Science Fiction/Fantasy|04/04/2019|132|9.2|
+2 119|Annabelle 3|Terror|26/06/2019|121|9.1|
+2 120|UglyDolls|Fantasy/Adventure|16/05/2019|87|7.2|
+1 102
+2 119|Annabelle 3|Terror|26/06/2019|121|9.1|
+1 110
+1 101
+1 112
