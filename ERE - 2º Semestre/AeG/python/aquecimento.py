@@ -10,7 +10,7 @@ ex5 = [2]
 ex6 = [5, 1, 2, 5]
 
 def main():
-    if verifica(ex4, ex5):
+    if verifica(ex1, ex2):
         print("True")
     else:
         print("False")
@@ -36,6 +36,7 @@ def verifica(c1: List[int], c2: List[int]):
 
     # Verifica se c1 e c1 são iguais
     flag = False
+
     for i in range(len(c1)):
     # Rotaciona por todas as possbilidades de c2
 
@@ -51,7 +52,6 @@ def verifica(c1: List[int], c2: List[int]):
 
     return False
     
-
 def rotaciona(lista: List[int]):
     '''    
     Rotaciona uma determinada lista
@@ -64,7 +64,6 @@ def rotaciona(lista: List[int]):
     lista.append(x)
 
     return lista
-
 
 # Chama a função principal
 if __name__ == "__main__":
